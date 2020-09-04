@@ -7,7 +7,7 @@ void main() {
       home: Scaffold(
         backgroundColor: Colors.lightBlueAccent,
         appBar: AppBar(
-          title: Center(child: Text('Dicee')),
+          title: Center(child: Text('My_Dicee')),
           backgroundColor: Colors.red,
         ),
         body: DicePage(),
